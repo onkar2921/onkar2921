@@ -21,12 +21,18 @@ I'm Onkar ⚡, a MERN stack developer.
 
 # About Me <img src="./img/about.gif" height="48px">
 
-<img src="" width="30" height="30">I am ONKAR, currently in 3rd year pursuing my Computer Engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
-
-<br />
-<img src="" width="30" height="30">MERN Stack Developer!<br />
+<!--<img src="" width="30" height="30">
+-->
+<h1>
+	I am ONKAR, currently in 3rd year pursuing my Computer Engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.
+</h1>
+ <br />
+<h1>
+	MERN Stack Developer!
+</h1>
+<!-- <img src="" width="30" height="30"><br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+ -->
 
 
 
