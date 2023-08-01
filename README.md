@@ -114,6 +114,11 @@ I'm Onkar ⚡, a MERN stack developer.
 ---
 
 
+<h1>
+	CODE WITH SMILE.LEARN FOR YOU NOT FOR OTHERS.
+</h1>
+
+
 
 
 <!--
